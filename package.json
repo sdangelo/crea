@@ -1,0 +1,26 @@
+{
+  "name": "crea",
+  "version": "0.0.0",
+  "description": "Minimal build tool",
+  "main": "crea.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdangelo/crea.git"
+  },
+  "keywords": [
+    "build",
+    "make"
+  ],
+  "author": "Stefano D'Angelo <zanga.mail@gmail.com> (http://sdangelo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdangelo/crea/issues",
+    "email": "zanga.mail@gmail.com"
+  },
+  "dependencies": {
+    "fs-extra": "0.30.x"
+  }
+}
